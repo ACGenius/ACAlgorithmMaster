@@ -9,3 +9,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 2 (Taeyeon) 
 1. Single Number - Easy - https://leetcode.com/problems/single-number/ 
 2. Permutations - Medium - https://leetcode.com/problems/permutations/
+
+## Week 3 (Justin O__O)
+1. Reverse Linked List - Easy - https://leetcode.com/problems/reverse-linked-list/
+2. Sum of Two Integers - Easy - https://leetcode.com/problems/sum-of-two-integers/
