@@ -17,3 +17,8 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 4 (Jeongmi)
 1. Rotate String - Easy - https://leetcode.com/problems/rotate-string/
 2. Merge Two Sorted Lists - Easy - https://leetcode.com/problems/merge-two-sorted-lists/
+
+## Week 5 (Taeyeon)
+1. Plus One - Easy - https://leetcode.com/problems/plus-one/
+2. Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix/
+
