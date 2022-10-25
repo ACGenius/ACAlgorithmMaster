@@ -22,3 +22,6 @@ This repository will have leetcode algorithm questions and solutions
 1. Plus One - Easy - https://leetcode.com/problems/plus-one/
 2. Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix/
 
+# Week 6(7?) (Justin *__*)
+1. Missing Number - Easy - https://leetcode.com/problems/missing-number/
+2. Employees earning more than their managers - Easy- https://leetcode.com/problems/employees-earning-more-than-their-managers/
