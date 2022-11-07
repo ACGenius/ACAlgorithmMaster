@@ -29,3 +29,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 7 (Jeongmi)
 1. Repeated Substring Pattern - Easy - https://leetcode.com/problems/repeated-substring-pattern/ 
 2. Relative Sort Array - Easy - https://leetcode.com/problems/relative-sort-array/
+
+## Week 8 (Taeyeon)
+1. Number Complement - Easy - https://leetcode.com/problems/number-complement/
+2. Maximum Product of Three Numbers - Easy - https://leetcode.com/problems/maximum-product-of-three-numbers/
