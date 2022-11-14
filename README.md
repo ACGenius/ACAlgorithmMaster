@@ -33,3 +33,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 8 (Taeyeon)
 1. Number Complement - Easy - https://leetcode.com/problems/number-complement/
 2. Maximum Product of Three Numbers - Easy - https://leetcode.com/problems/maximum-product-of-three-numbers/
+
+## Weej 9 (Justin)
+1.  House Robber - Medium - https://leetcode.com/problems/house-robber/
+2.  Subtree of another tree - Easy - https://leetcode.com/problems/subtree-of-another-tree/
