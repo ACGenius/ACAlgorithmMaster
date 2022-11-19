@@ -37,3 +37,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Weej 9 (Justin)
 1.  House Robber - Medium - https://leetcode.com/problems/house-robber/
 2.  Subtree of another tree - Easy - https://leetcode.com/problems/subtree-of-another-tree/
+
+## Week 10 (Jeongmi)
+1. Word Break - Medium - https://leetcode.com/problems/word-break/
+2. Implement Stack using Queues - Easy - https://leetcode.com/problems/implement-stack-using-queues/
