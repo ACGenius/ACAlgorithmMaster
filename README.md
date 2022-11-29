@@ -41,3 +41,8 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 10 (Jeongmi)
 1. Word Break - Medium - https://leetcode.com/problems/word-break/
 2. Implement Stack using Queues - Easy - https://leetcode.com/problems/implement-stack-using-queues/
+
+## Week 11 (Taeyeon)
+1. Remove Duplicates from Sorted List - https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+2. Average of Levels in Binary Tree - https://leetcode.com/problems/average-of-levels-in-binary-tree/
+
