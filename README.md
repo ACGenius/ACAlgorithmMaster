@@ -46,3 +46,7 @@ This repository will have leetcode algorithm questions and solutions
 1. Remove Duplicates from Sorted List - https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 2. Average of Levels in Binary Tree - https://leetcode.com/problems/average-of-levels-in-binary-tree/
 
+## Week 13 (Jeongmi)
+1. Find the Difference -  Easy - https://leetcode.com/problems/find-the-difference/
+2. Balanced Binary Tree - Easy - https://leetcode.com/problems/balanced-binary-tree/
+
