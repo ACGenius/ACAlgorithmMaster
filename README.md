@@ -54,3 +54,7 @@ This repository will have leetcode algorithm questions and solutions
 1. Binary Tree Postorder Traversal - Easy - https://leetcode.com/problems/binary-tree-postorder-traversal/
 2. Keys and Rooms - medium - https://leetcode.com/problems/keys-and-rooms/
 
+## Week 15 (Justin)
+1. Best time to Buy and Sell Stocks - Easy - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+2. Longest Consecutive Sequence- Medium - https://leetcode.com/problems/longest-consecutive-sequence/
+
