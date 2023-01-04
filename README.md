@@ -58,3 +58,6 @@ This repository will have leetcode algorithm questions and solutions
 1. Best time to Buy and Sell Stocks - Easy - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 2. Longest Consecutive Sequence- Medium - https://leetcode.com/problems/longest-consecutive-sequence/
 
+## Week 16 (Jeongmi)
+1. Invert Binary Tree - East - https://leetcode.com/problems/invert-binary-tree/
+2. Shortest Unsorted Continuous Subarray - Medium - https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
