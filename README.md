@@ -61,3 +61,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 16 (Jeongmi)
 1. Invert Binary Tree - East - https://leetcode.com/problems/invert-binary-tree/
 2. Shortest Unsorted Continuous Subarray - Medium - https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+
+## Week 17 (Taeyeon)
+1. Middle of the Linked List - Easy - https://leetcode.com/problems/middle-of-the-linked-list/
+2. Integer to Roman - Medium - https://leetcode.com/problems/integer-to-roman/
