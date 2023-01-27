@@ -65,3 +65,11 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 17 (Taeyeon)
 1. Middle of the Linked List - Easy - https://leetcode.com/problems/middle-of-the-linked-list/
 2. Integer to Roman - Medium - https://leetcode.com/problems/integer-to-roman/
+
+## Week 18 (Justin)
+1. Container with the most water - Medium - https://leetcode.com/problems/container-with-most-water/
+2. Validate Binary Search Tree - Medium - https://leetcode.com/problems/validate-binary-search-tree/
+
+## Week 19 (Jeongmi)
+1. Lemonade Change - Easy - https://leetcode.com/problems/lemonade-change/
+2. Find the Duplicate Number - Medium - https://leetcode.com/problems/find-the-duplicate-number/
