@@ -73,3 +73,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 19 (Jeongmi)
 1. Lemonade Change - Easy - https://leetcode.com/problems/lemonade-change/
 2. Find the Duplicate Number - Medium - https://leetcode.com/problems/find-the-duplicate-number/
+
+## Week 20 (Taeyeon)
+1. Minimum Sum of Four Digit Number After Splitting Digits - Easy - https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+2. Find Mode in Binary Search Tree - Easy - https://leetcode.com/problems/find-mode-in-binary-search-tree/
