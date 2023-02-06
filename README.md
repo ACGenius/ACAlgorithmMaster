@@ -77,3 +77,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 20 (Taeyeon)
 1. Minimum Sum of Four Digit Number After Splitting Digits - Easy - https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 2. Find Mode in Binary Search Tree - Easy - https://leetcode.com/problems/find-mode-in-binary-search-tree/
+
+## Week 21 (Justin)
+1. Product of Array Except Self - Medium - https://leetcode.com/problems/product-of-array-except-self/
+2. Course Schedule - Medium - https://leetcode.com/problems/course-schedule/
