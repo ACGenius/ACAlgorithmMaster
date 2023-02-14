@@ -81,3 +81,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 21 (Justin)
 1. Product of Array Except Self - Medium - https://leetcode.com/problems/product-of-array-except-self/
 2. Course Schedule - Medium - https://leetcode.com/problems/course-schedule/
+
+## Week 22 (Jeongmi)
+1. License Key Formatting - Easy - https://leetcode.com/problems/license-key-formatting/
+2. Shopping Offers - Medium - https://leetcode.com/problems/shopping-offers/
