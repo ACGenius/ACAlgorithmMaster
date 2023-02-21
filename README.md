@@ -85,3 +85,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 22 (Jeongmi)
 1. License Key Formatting - Easy - https://leetcode.com/problems/license-key-formatting/
 2. Shopping Offers - Medium - https://leetcode.com/problems/shopping-offers/
+
+## Week 23 (Taeyeon)
+1. Shuffle String - Easy - https://leetcode.com/problems/shuffle-string/
+2. Group Anagrams - Medium - https://leetcode.com/problems/group-anagrams/
