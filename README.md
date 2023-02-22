@@ -73,3 +73,19 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 19 (Jeongmi)
 1. Lemonade Change - Easy - https://leetcode.com/problems/lemonade-change/
 2. Find the Duplicate Number - Medium - https://leetcode.com/problems/find-the-duplicate-number/
+
+## Week 20 (Taeyeon)
+1. Minimum Sum of Four Digit Number After Splitting Digits - Easy - https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+2. Find Mode in Binary Search Tree - Easy - https://leetcode.com/problems/find-mode-in-binary-search-tree/
+
+## Week 21 (Justin)
+1. Product of Array Except Self - Medium - https://leetcode.com/problems/product-of-array-except-self/
+2. Course Schedule - Medium - https://leetcode.com/problems/course-schedule/
+
+## Week 22 (Jeongmi)
+1. License Key Formatting - Easy - https://leetcode.com/problems/license-key-formatting/
+2. Shopping Offers - Medium - https://leetcode.com/problems/shopping-offers/
+
+## Week 23 (Taeyeon)
+1. Shuffle String - Easy - https://leetcode.com/problems/shuffle-string/
+2. Group Anagrams - Medium - https://leetcode.com/problems/group-anagrams/
