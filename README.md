@@ -89,3 +89,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 23 (Taeyeon)
 1. Shuffle String - Easy - https://leetcode.com/problems/shuffle-string/
 2. Group Anagrams - Medium - https://leetcode.com/problems/group-anagrams/
+
+## Week 24 (Justin)
+1. Linked List Cycle - Easy - https://leetcode.com/problems/linked-list-cycle/
+2. Maximum Depth of Binary Tree - Easy - https://leetcode.com/problems/maximum-depth-of-binary-tree/
