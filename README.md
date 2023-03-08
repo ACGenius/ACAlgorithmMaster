@@ -93,3 +93,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 24 (Justin)
 1. Linked List Cycle - Easy - https://leetcode.com/problems/linked-list-cycle/
 2. Maximum Depth of Binary Tree - Easy - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+## Week 25 (Jeongmi)
+1. Binary Search - Easy - https://leetcode.com/problems/binary-search/
+2. Bag of Tokens - Medium - https://leetcode.com/problems/bag-of-tokens/
