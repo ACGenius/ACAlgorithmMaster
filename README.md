@@ -97,3 +97,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 25 (Jeongmi)
 1. Binary Search - Easy - https://leetcode.com/problems/binary-search/
 2. Bag of Tokens - Medium - https://leetcode.com/problems/bag-of-tokens/
+
+## Week 26(Taeyeon_forgive me)
+1. Implement Stack using Queues - Easy - https://leetcode.com/problems/implement-stack-using-queues/
+2. Defanging an IP Address - Easy - https://leetcode.com/problems/defanging-an-ip-address/
