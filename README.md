@@ -101,3 +101,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 26(Taeyeon_forgive me)
 1. Implement Stack using Queues - Easy - https://leetcode.com/problems/implement-stack-using-queues/
 2. Defanging an IP Address - Easy - https://leetcode.com/problems/defanging-an-ip-address/
+
+## Week 27 (Justin)
+1. Classes with more than 5 students - Easy - https://leetcode.com/problems/classes-more-than-5-students/
+2. Merge sorted array - Easy - https://leetcode.com/problems/merge-sorted-array/
