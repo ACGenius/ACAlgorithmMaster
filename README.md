@@ -105,3 +105,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 27 (Justin)
 1. Classes with more than 5 students - Easy - https://leetcode.com/problems/classes-more-than-5-students/
 2. Merge sorted array - Easy - https://leetcode.com/problems/merge-sorted-array/
+
+## Week 28 (Jeongmi)
+1. Remove Duplicates from Sorted Array - Easy -  https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+2. Maximum Subarray- Medium - https://leetcode.com/problems/maximum-subarray/
