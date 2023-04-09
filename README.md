@@ -109,3 +109,8 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 28 (Jeongmi)
 1. Remove Duplicates from Sorted Array - Easy -  https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 2. Maximum Subarray- Medium - https://leetcode.com/problems/maximum-subarray/
+
+## Week 29 (Taeyeon)
+1. Three Consecutive Odds - Easy - https://leetcode.com/problems/three-consecutive-odds/
+2. Length of Last Word - Easy - https://leetcode.com/problems/length-of-last-word/
+
