@@ -11,7 +11,7 @@ This repository will have leetcode algorithm questions and solutions
 2. Permutations - Medium - https://leetcode.com/problems/permutations/
 
 ## Week 3 (Justin O__O)
-1. Reverse Linked List - Easy - https://leetcode.com/problems/reverse-linked-list/
+1. Linked List - Easy - https://leetcode.com/problems/reverse-linked-list/
 2. Sum of Two Integers - Easy - https://leetcode.com/problems/sum-of-two-integers/
 
 ## Week 4 (Jeongmi)
@@ -114,3 +114,6 @@ This repository will have leetcode algorithm questions and solutions
 1. Three Consecutive Odds - Easy - https://leetcode.com/problems/three-consecutive-odds/
 2. Length of Last Word - Easy - https://leetcode.com/problems/length-of-last-word/
 
+## Week 30 (Justin)
+1. Reverse Bits - Easy - https://leetcode.com/problems/reverse-bits/
+2. Same Tree - Easy - https://leetcode.com/problems/same-tree/
