@@ -117,3 +117,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 30 (Justin)
 1. Reverse Bits - Easy - https://leetcode.com/problems/reverse-bits/
 2. Same Tree - Easy - https://leetcode.com/problems/same-tree/
+
+## Week 31 (Jeongmi)
+1. Reverse String II - Easy - https://leetcode.com/problems/reverse-string-ii/
+2. Find Lucky Integer in an Array - Easy - https://leetcode.com/problems/find-lucky-integer-in-an-array/
