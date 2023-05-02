@@ -121,3 +121,7 @@ This repository will have leetcode algorithm questions and solutions
 ## Week 31 (Jeongmi)
 1. Reverse String II - Easy - https://leetcode.com/problems/reverse-string-ii/
 2. Find Lucky Integer in an Array - Easy - https://leetcode.com/problems/find-lucky-integer-in-an-array/
+
+## Week 32 (Taeyeon)
+1. Sorting the Sentence - Easy - https://leetcode.com/problems/sorting-the-sentence/
+2. Time Needed to Buy Tickets - Easy - https://leetcode.com/problems/time-needed-to-buy-tickets/
